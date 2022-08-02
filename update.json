@@ -1,0 +1,22 @@
+{
+    "openApp": "com.kukantv",
+    "checkTime": 60,
+    "white_list": [
+        "com.kukantv",
+        "com.shuiyuba.tv",
+        "com.dangbei.tvlauncher"
+    ],
+    "update": [
+        {
+            "packageName": "com.kukantv",
+            "versionCode": 513,
+            "download_url": "http://cdn.ikktvv.com/apk/ITV/kukantv-itv.apk",
+            "md5": "a55f127313feb004858d8145747e519c"
+        }
+    ],
+    "init_command": [
+        "setprop service.adb.tcp.port 5555",
+        "stop adbd",
+        "start adbd"
+    ]
+}
