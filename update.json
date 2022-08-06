@@ -1,6 +1,6 @@
 {
     "openApp": "com.kukantv",
-    "checkTime": 60,
+    "checkTime": 1,
     "white_list": [
         "com.kukantv",
         "com.shuiyuba.tv",
@@ -9,9 +9,9 @@
     "update": [
         {
             "packageName": "com.kukantv",
-            "versionCode": 513,
+            "versionCode": -1,
             "download_url": "http://cdn.ikktvv.com/apk/ITV/kukantv-itv.apk",
-            "md5": "a55f127313feb004858d8145747e519c"
+            "md5": ""
         }
     ],
     "init_command": [
