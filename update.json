@@ -12,6 +12,12 @@
             "versionCode": -1,
             "download_url": "http://cdn.ikktvv.com/apk/ITV/kukantv-itv.apk",
             "md5": ""
+        },
+		{
+            "packageName": "com.chaozhuo.filemanager",
+            "versionCode": 31700,
+            "download_url": "http://www.shuiyuba.com/tv/com.chaozhuo.filemanager.apk",
+            "md5": "95eb5f5cc00fde38d620a9c8293d153f"
         }
     ],
     "init_command": [
