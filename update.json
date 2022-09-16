@@ -1,6 +1,6 @@
 {
     "openApp": "com.kukantv",
-    "checkTime": 8,
+    "checkTime": 240,
     "white_list": [
         "com.kukantv",
         "com.shuiyuba.tv",
