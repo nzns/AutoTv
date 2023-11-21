@@ -1,16 +1,15 @@
 {
-    "openApp": "com.kukantv",
+    "openApp": "com.hxtv.zhibo",
     "checkTime": 240,
     "white_list": [
-        "com.kukantv",
         "com.shuiyuba.tv",
         "com.dangbei.tvlauncher"
     ],
     "update": [
         {
-            "packageName": "com.kukantv",
+            "packageName": "com.hxtv.zhibo",
             "versionCode": -1,
-            "download_url": "http://cdn.tvmars.com/new/qjp/kukan_common_default_6.0.6_607_release.apk",
+            "download_url": "http://www.shuiyuba.com/apk/hxtv210.apk",
             "md5": ""
         }
     ],
