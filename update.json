@@ -1,6 +1,6 @@
 {
-    "openApp": "com.live.zd",
     "checkTime": 240,
+    "openApp": "com.live.zd",
     "white_list": [
         "com.shuiyuba.tv",
         "com.dangbei.tvlauncher",
@@ -15,11 +15,6 @@
         }
     ],
     "init_command": [
-        "setprop persist.sys.usb.config adb",
-        "setprop ro.adb.secure 0",
-        "setprop setprop persist.service.adb.enable 1",
-        "setprop service.adb.tcp.port 5555",
-        "stop adbd",
-        "start adbd"
+        
     ]
 }
