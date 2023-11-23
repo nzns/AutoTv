@@ -5,6 +5,10 @@
 </h2>
 
 Github RAW 加速服务
+
+更新后清理缓存
+https://www.jsdelivr.com/tools/purge
+
 https://www.7ed.net/#/raw-cdn
 https://raw.githubusercontents.com/ 用户/仓库/main(分支)/子目录/txt.txt
 
@@ -20,3 +24,4 @@ https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
 https://purge.jsdelivr.net/gh/liu673cn/box@main/m.json
+
