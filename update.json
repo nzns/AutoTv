@@ -2,13 +2,13 @@
     "checkTime": 240,
     "openApp": "com.live.zd",
     "white_list": [
-        "com.shuiyuba.tv",
+        "com.shuiyuba.fucktv",
         "com.dangbei.tvlauncher",
         "com.live.zd"
     ],
     "update": [
         {
-            "packageName": "com.live.zd",
+            "packageName": "com.shuiyuba.fucktv",
             "versionCode": -1,
             "download_url": "http://www.longkouw.com/fucktv/tv.apk",
             "md5": ""
