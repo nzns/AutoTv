@@ -1,11 +1,6 @@
 {
     "checkTime": 240,
-    "openApp": "com.live.zd",
-    "white_list": [
-        "com.shuiyuba.fucktv",
-        "com.dangbei.tvlauncher",
-        "com.live.zd"
-    ],
+    "openApp": "com.shuiyuba.fucktv",
     "update": [
         {
             "packageName": "com.shuiyuba.fucktv",
