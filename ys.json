@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.githubusercontent.com/nzns/AutoTv/main/Pandora.jar;md5;b90b0b641f1e382073125f63f77bb9fe",
+"spider":"https://nzns.github.io/Pandora.jar;md5;b90b0b641f1e382073125f63f77bb9fe",
 "wallpaper":"",
 "sites":[  
   {"key":"DouDou","name":"豆瓣|评分","type":3,"api":"csp_DouDou","searchable":0,"changeable":0},
