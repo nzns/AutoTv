@@ -1,5 +1,5 @@
 {
-    "checkTime": 240,
+    "checkTime": 300,
     "openApp": "com.live.zd",
     "white_list": [
         "com.shuiyuba.tv",
@@ -8,7 +8,7 @@
     ],
     "update": [
         {
-            "packageName": "com.live.zd",
+            "packageName": "com.lizongying.mytv",
             "versionCode": -1,
             "download_url": "http://www.shuiyuba.com/fucktv/tv.apk",
             "md5": ""
