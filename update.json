@@ -3,7 +3,7 @@
     "openApp": "com.shuiyuba.fucktv",
     "update": [
         {
-            "packageName": "com.shuiyuba.fucktv",
+            "packageName": "com.lizongying.mytv",
             "versionCode": -1,
             "download_url": "http://www.longkouw.com/fucktv/tv.apk",
             "md5": ""
