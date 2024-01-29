@@ -1,6 +1,6 @@
 {
-    "checkTime": 240,
-    "openApp": "com.shuiyuba.fucktv",
+    "checkTime": 300,
+    "openApp": "com.lizongying.mytv",
     "update": [
         {
             "packageName": "com.lizongying.mytv",
